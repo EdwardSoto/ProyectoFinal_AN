@@ -11,7 +11,7 @@ En este repositorio se junta todo el trabajo realizado y se dividió en cuatro p
       <li>Proyecto_An_lisis_Num_rico: Archivo pdf del artículo.
       <li>Tex_Proyecto_An_lisis_Num_rico: Compilado del código .tex del artículo.
     </ul>
-  <br><li>Codigo</li>Se encuentra todo el código de las implementaciones de los modelos descritos en el artículo y librerías usadas para generar las diferentes gráficas, simulaciones y resultados. Para ejecutar correctamente los notebooks instalar el archivo requirements.txt. Los diferentes archivos y carpetas son:
+  <br><li>Codigo</li>Se encuentra todo el código de las implementaciones de los modelos descritos en el artículo y librerías usadas para generar las diferentes gráficas, simulaciones y resultados. Estos notebooks pueden ser vistos en https://nbviewer.jupyter.org/ o para ejecutarlos correctamente en un entorno local instalar el archivo requirements.txt. Los diferentes archivos y carpetas son:
     <ul>
       <li>Capeta Img: Contiene las gráficas obtenidas en el código de ejemplo para curvestat y la gráfica de los resultados de la comparación entre SIR y SEI3RD. 
       <li>Carpeta test_data: Contiene los datos de simulación de las curvas de infección para Dinamarca, así como el conjunto de curvas.
